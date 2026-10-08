@@ -1,14 +1,15 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Moving Average from Data Stream,100.0,0.7993788009717444,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
-HARD,Leetcodify Friends Recommendations,89.9,0.27980416156670745,https://leetcode.com/problems/leetcodify-friends-recommendations,Database
-HARD,Leetcodify Similar Friends,89.9,0.4264262416148686,https://leetcode.com/problems/leetcodify-similar-friends,Database
-EASY,Two Sum,87.6,0.5577699999694816,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Longest Substring Without Repeating Characters,85.1,0.36936143087114587,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Analyze User Website Visit Pattern,85.1,0.43727202347730587,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, Sorting"
-EASY,Valid Parentheses,82.2,0.4232285927944412,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Kth Largest Element in an Array,82.2,0.6797706304551039,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
-EASY,Valid Palindrome,75.0,0.5096354883309973,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-HARD,Find Median from Data Stream,55.3,0.5327808081897567,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-EASY,Ransom Note,55.3,0.645236720828959,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
-MEDIUM,Walls and Gates,55.3,0.6296793327762211,https://leetcode.com/problems/walls-and-gates,"Array, Breadth-First Search, Matrix"
-EASY,Maximum Depth of Binary Tree,55.3,0.7713813413485063,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Moving Average from Data Stream,100.0,0.008022841921995209,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+MEDIUM,Analyze User Website Visit Pattern,86.3,0.0044332494543415715,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, String, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,84.7,0.003977959161405498,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Kth Largest Element in an Array,84.7,0.00692437355192037,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+EASY,Two Sum,79.0,0.0058009587458191314,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Leetcodify Friends Recommendations,76.7,0.00289019326235599,https://leetcode.com/problems/leetcodify-friends-recommendations,Database
+HARD,Leetcodify Similar Friends,76.7,0.004341268986319078,https://leetcode.com/problems/leetcodify-similar-friends,Database
+EASY,Valid Parentheses,76.7,0.004472567007912034,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+HARD,Sliding Window Median,67.4,0.003908073684660426,https://leetcode.com/problems/sliding-window-median,"Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap"
+HARD,Find Median from Data Stream,63.0,0.005487695459974172,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+EASY,Ransom Note,57.3,0.006631443973009322,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
+EASY,Fibonacci Number,57.3,0.007452186471512558,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+EASY,Maximum Depth of Binary Tree,49.3,0.007852251440099663,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Valid Palindrome,49.3,0.005407051088017616,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"

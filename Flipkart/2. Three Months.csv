@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Transform Array to All Equal Elements,100.0,0.315568937398068,https://leetcode.com/problems/transform-array-to-all-equal-elements,"Array, Greedy"
-MEDIUM,Course Schedule II,64.5,0.5342350029047974,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Sum of Subarray Minimums,64.5,0.3762351166424223,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Contain Virus,100.0,0.0055768173320136375,https://leetcode.com/problems/contain-virus,"Array, Depth-First Search, Breadth-First Search, Matrix, Simulation"
+MEDIUM,Cheapest Flights Within K Stops,58.5,0.004241511632931685,https://leetcode.com/problems/cheapest-flights-within-k-stops,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path"
+MEDIUM,Loud and Rich,58.5,0.006400431982103598,https://leetcode.com/problems/loud-and-rich,"Array, Depth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph"

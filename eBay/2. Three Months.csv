@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Time Based Key-Value Store,100.0,0.49366262559843777,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,"Pow(x, n)",100.0,0.37023201698953384,https://leetcode.com/problems/powx-n,"Math, Recursion"
-MEDIUM,Rotting Oranges,100.0,0.5661839890477366,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Open the Lock,100.0,0.6074106348295799,https://leetcode.com/problems/open-the-lock,"Array, Hash Table, String, Breadth-First Search"
-MEDIUM,Set Matrix Zeroes,100.0,0.6070888278303417,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+MEDIUM,Minimize Result by Adding Parentheses to Expression,100.0,0.006833432978596199,https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression,"String, Enumeration"
+MEDIUM,Alternating Groups II,82.2,0.005994989407755366,https://leetcode.com/problems/alternating-groups-ii,"Array, Sliding Window"
+MEDIUM,Maximal Square,82.2,0.005074676265817781,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+HARD,Median of Two Sorted Arrays,82.2,0.004736988837266392,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"

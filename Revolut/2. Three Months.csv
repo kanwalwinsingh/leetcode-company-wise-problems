@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Perfect Squares,100.0,0.5567499609828845,https://leetcode.com/problems/perfect-squares,"Math, Dynamic Programming, Breadth-First Search"
-EASY,Binary Tree Paths,100.0,0.6656851312174555,https://leetcode.com/problems/binary-tree-paths,"String, Backtracking, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Longest Increasing Subsequence,100.0,0.005984861906367605,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence"

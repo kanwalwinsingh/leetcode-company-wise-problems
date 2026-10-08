@@ -1,7 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.452147387470624,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Sliding Window Maximum,71.6,0.47604176540136595,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
-MEDIUM,Restore IP Addresses,71.6,0.5315843132324689,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
-MEDIUM,Search in Rotated Sorted Array,71.6,0.4283722145334321,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-HARD,Basic Calculator,71.6,0.45589654652961087,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
-MEDIUM,Longest Substring Without Repeating Characters,71.6,0.3693614444669191,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Merge Intervals,100.0,0.005257653378270721,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+MEDIUM,LRU Cache,92.8,0.004786899429208218,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Reverse Nodes in k-Group,82.6,0.006696565534408489,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"

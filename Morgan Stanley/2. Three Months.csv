@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Make K-Subarray Sums Equal,100.0,0.3661727523960722,https://leetcode.com/problems/make-k-subarray-sums-equal,"Array, Math, Greedy, Sorting, Number Theory"
-MEDIUM,Minimum Operations to Reduce X to Zero,100.0,0.40063692467140904,https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero,"Array, Hash Table, Binary Search, Sliding Window, Prefix Sum"
+EASY,Maximum Length Substring With Two Occurrences,100.0,0.007766266290217097,https://leetcode.com/problems/maximum-length-substring-with-two-occurrences,"Hash Table, String, Sliding Window"

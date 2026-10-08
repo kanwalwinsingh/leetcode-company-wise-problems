@@ -1,8 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Longest Common Prefix,100.0,0.4548318384045896,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-EASY,Majority Element,100.0,0.6574039462914686,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
-EASY,Best Time to Buy and Sell Stock,88.1,0.5525972597748545,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-HARD,Median of Two Sorted Arrays,88.1,0.43814715869853715,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-EASY,Roman to Integer,88.1,0.6486652858475359,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-EASY,Two Sum,88.1,0.5577709053993679,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Longest Palindromic Substring,88.1,0.35846276556107637,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Two Sum,100.0,0.005800958083748111,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Longest Common Prefix,83.3,0.0048187214076762285,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+HARD,Median of Two Sorted Arrays,73.6,0.004736982829774125,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Roman to Integer,73.6,0.006704944612057574,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"

@@ -1,7 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Convert Binary Number in a Linked List to Integer,100.0,0.8121524244503869,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer,"Linked List, Math"
-MEDIUM,Course Schedule II,100.0,0.5342357909139157,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,LRU Cache,100.0,0.4521483770727891,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Reaching Points,100.0,0.336468882434809,https://leetcode.com/problems/reaching-points,Math
-MEDIUM,Merge Intervals,100.0,0.493952574621571,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-HARD,Serialize and Deserialize Binary Tree,100.0,0.589694187837451,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+MEDIUM,Break a Palindrome,100.0,0.0051624215671782535,https://leetcode.com/problems/break-a-palindrome,"String, Greedy"
+MEDIUM,Group Anagrams,81.4,0.007312907069303087,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Container With Most Water,81.4,0.006064832711532953,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Sort Colors,81.4,0.007016878107720372,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort"

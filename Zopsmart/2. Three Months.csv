@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Trapping Rain Water,100.0,0.651086356034693,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Reverse Words in a String,81.6,0.5192721628620846,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
-MEDIUM,Zigzag Conversion,72.7,0.5161060892506519,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Zigzag Conversion,100.0,0.005489183399383995,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Decode String,89.3,0.006309059424580802,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+HARD,Reverse Nodes in k-Group,62.7,0.006696564159240927,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"

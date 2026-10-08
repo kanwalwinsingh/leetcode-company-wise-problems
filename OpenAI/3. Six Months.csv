@@ -1,6 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design SQL,100.0,0.698193359375,https://leetcode.com/problems/design-sql,"Array, Hash Table, String, Design"
-MEDIUM,Flatten Nested List Iterator,80.0,0.6522839525510098,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
-MEDIUM,Time Based Key-Value Store,66.7,0.49366346423788904,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,Design Memory Allocator,66.7,0.484441262323071,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"
-MEDIUM,Asteroid Collision,59.0,0.45500586816476224,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Design Memory Allocator,100.0,0.005055771602010812,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"
+MEDIUM,Rotting Oranges,86.4,0.005927620556931643,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Design Authentication Manager,61.7,0.0058670256372037564,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"

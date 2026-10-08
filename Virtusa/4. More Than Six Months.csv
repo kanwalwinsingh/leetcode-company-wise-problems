@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Pascal's Triangle,100.0,0.7702167530181141,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
-EASY,Merge Sorted Array,89.2,0.529197135097243,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,Apply Operations to Make String Empty,89.2,0.5620840463966533,https://leetcode.com/problems/apply-operations-to-make-string-empty,"Array, Hash Table, Sorting, Counting"
-MEDIUM,Longest Substring Without Repeating Characters,89.2,0.3693619667076727,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003977957991168964,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Two Sum,100.0,0.005800955990336114,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Roman to Integer,100.0,0.006704948841094174,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+EASY,Longest Common Prefix,100.0,0.004818719734782995,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Rotate Array,88.1,0.004532004657360302,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"

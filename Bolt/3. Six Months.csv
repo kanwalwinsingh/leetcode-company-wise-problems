@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525969560951968,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Get Watched Videos by Your Friends,100.0,0.005400806195719876,https://leetcode.com/problems/get-watched-videos-by-your-friends,"Array, Hash Table, Breadth-First Search, Graph Theory, Sorting"
